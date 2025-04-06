@@ -44,5 +44,5 @@ HealthConnect is open-source and licensed under the MIT License.
 ---
 ### Contact Us
 For inquiries or feedback, please reach out to the development team:
-- **Email:** rhythmjain.2005@gmail.com, rishabhjain1175@gmail.com
+- **Email:** rishabhjain1175@gmail.com and Yashvikabhardwaj@gmail.com
 
